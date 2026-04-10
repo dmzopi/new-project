@@ -1,4 +1,4 @@
-# Git instruction:
+# Git instructions for DEVs:
 
 1. In console create and enter project folder
 ```
